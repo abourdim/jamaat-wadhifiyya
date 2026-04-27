@@ -12,8 +12,11 @@
 ## Source progress
 
 - Source: `source/source.txt`, 2789 lines total.
-- Translated through ≈ line **336**.
-- Remaining: ≈ 2453 lines (~88%). Estimated 12-14 more lots before `v1.0`.
+- Translated through ≈ line **810** (v0.9 livré).
+- Remaining: ≈ 1979 lines (~71%). Estimated 9-11 more lots before `v1.0`.
+
+## Tags livrés
+v0.1-pilot, v0.2 (Ch. I général), v0.3 (Ch. I cas extrêmes/agents), v0.4 (Ch. II immanentisme), v0.5 (Ch. II/communautés juives), v0.6 (Ch. II fin/Ch. III début), v0.7 (Ch. III fin/Ch. IV ghetto), v0.8 (shtetl/chartes/capitulations), v0.9 (langues secrètes/liminalité/Luftmenschen/shnorrers).
 
 ## Active directives (still in force)
 
